@@ -1,0 +1,13 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../sass/style.scss",
+		"../sass/_variables.scss",
+		"../sass/_mixins.scss",
+		"../sass/_normalize.scss",
+		"../sass/_layout.scss"
+	],
+	"names": [],
+	"mappings": ""
+}
